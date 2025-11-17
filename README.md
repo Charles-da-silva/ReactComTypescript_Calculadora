@@ -5,5 +5,5 @@ Aqui desenvolvi uma calculadora para exercitar os aprendizados do curso que esto
 Segue abaixo o print do app em execução:
 
 <p align="center">
-  <img src="https://github.com/Charles-da-silva/ReactComTypescript_Calculadora/blob/main/src/assets/App_print.png" height="200">
+  <img src="https://github.com/Charles-da-silva/ReactComTypescript_Calculadora/blob/main/src/assets/App_print.png">
 </p>
